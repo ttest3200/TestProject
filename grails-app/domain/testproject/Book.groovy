@@ -10,6 +10,7 @@ class Book {
 
 
     String newCode2
+    String newCode3
 
     String newCode
 
