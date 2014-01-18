@@ -9,6 +9,7 @@ class Book {
     String year
 
 
+    String newCode2
 
     String newCode
 
